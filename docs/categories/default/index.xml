@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>default on theruziev.com</title>
+    <link>https://theruziev.com/categories/default/</link>
+    <description>Recent content in default on theruziev.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 22:46:06 +0300</lastBuildDate><atom:link href="https://theruziev.com/categories/default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World with json highlights</title>
+      <link>https://theruziev.com/posts/hello-world/</link>
+      <pubDate>Tue, 03 May 2022 22:46:06 +0300</pubDate>
+      
+      <guid>https://theruziev.com/posts/hello-world/</guid>
+      <description>{  &amp;#34;message&amp;#34;: &amp;#34;hello world&amp;#34; } </description>
+    </item>
+    
+  </channel>
+</rss>
