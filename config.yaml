@@ -4,7 +4,7 @@ title: theruziev.com
 theme: "archie"
 publishDir: docs/
 params:
-  subtitle: 'night-time dreamer, streetwalker, smalltalker'
+  subtitle: 'cringe-person, night-time dreamer, streetwalker, smalltalker'
   dateFmt: '02.01.2006 15:04'
   useCDN: true
   customcss: ["css/custom.css"]
