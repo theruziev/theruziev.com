@@ -13,18 +13,20 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Categories"/>
 <meta name="twitter:description" content=""/>
-
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 
 	
 	<link rel="stylesheet" type="text/css" media="screen" href="https://theruziev.com/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://theruziev.com/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
+	
 	
 	
 		
 		
-		<link rel="stylesheet" type="text/css" href="https://theruziev.com/css/custom.cde86390c42c0548dd7572ccd01bd70e36952e08a7280b3924f6308489b5cdce.css">
+		<link rel="stylesheet" type="text/css" href="https://theruziev.com/css/custom.14cccdcf4f0ee1fa4015addef47b7d3b2d23541616ba2d6a4ea9e7efb164f87d.css">
 		
 </head>
 <body>
@@ -34,6 +36,8 @@
 	</div>
 	<nav>
 		
+		| <a id="dark-mode-toggle" onclick="toggleTheme()" href=""></a>
+		<script src="https://theruziev.com/js/themetoggle.js"></script>
 		
 	</nav>
 </header>
@@ -53,7 +57,8 @@
 	</ul>
 </div>
 <footer>
-  <div style="display:flex"></div>
+  <div style="display:flex"><a class="soc" href="https://github.com/theruziev" title="Github"><i data-feather="github"></i></a>
+    <a class="border"></a></div>
   <div class="footer-info">
     2022  <a
       href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
@@ -61,6 +66,8 @@
 </footer>
 
 
-</div>
+<script>
+  feather.replace()
+</script></div>
     </body>
 </html>

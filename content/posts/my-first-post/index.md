@@ -15,3 +15,6 @@ It's my first post on my website. The reason for creating a website and writing 
 * Monthly updates about what I accomplished 
 * Post a meme 
 
+### My desktop setup btw 
+
+![Desktop setup](desktop_setup.jpg)
