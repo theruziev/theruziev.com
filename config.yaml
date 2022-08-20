@@ -1,0 +1,17 @@
+baseURL: 'https://theruziev.com/'
+languageCode: en-us
+title: theruziev.com
+theme: "archie"
+publishDir: docs/
+params:
+  subtitle: 'night-time dreamer, streetwalker, smalltalker'
+  dateFmt: '02.01.2006 15:04'
+  useCDN: true
+  customcss: ["css/custom.css"]
+
+
+menu:
+  footer:
+    - name: Github
+      url: 'https://github.com/theruziev'
+      weight: 1
