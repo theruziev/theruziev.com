@@ -9,6 +9,7 @@ params:
   useCDN: true
   mode: 'toggle'
   customcss: ["css/custom.css"]
+  favicon: "favicon.png"
   social:
     - name: Github
       icon: 'github'
