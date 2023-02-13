@@ -14,5 +14,12 @@ params:
     - name: Github
       icon: 'github'
       url: 'https://github.com/theruziev'
+    - name: LinkedIn
+      icon: 'linkedin'
+      url: 'https://www.linkedin.com/in/theruziev/'
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
